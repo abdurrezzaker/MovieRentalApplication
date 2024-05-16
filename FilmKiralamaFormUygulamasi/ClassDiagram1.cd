@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="FilmKiralamaFormUygulamasi.Film">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIQgAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAiAIA=</HashCode>
+      <FileName>Film.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmKiralamaFormUygulamasi.FilmEkle">
+    <Position X="6.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAAAMCAAABAAAACAEYhCAAgYAAAAEGQAAIAAAAQ=</HashCode>
+      <FileName>FilmEkle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="filmDukkani" />
+      <Field Name="film" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FilmKiralamaFormUygulamasi.FilmKirala">
+    <Position X="9" Y="5.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAEQCAAAJQCAACAFCgCACgYAAAAEGAEAQAEAAA=</HashCode>
+      <FileName>FilmKirala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmKiralamaFormUygulamasi.Kiralanan">
+    <Position X="3" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEIAAAAIAACACAEAAAACAAAAABAAAAAQAAAAA=</HashCode>
+      <FileName>Kiralanan.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="kisi" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FilmKiralamaFormUygulamasi.Kisi">
+    <Position X="0.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmKiralamaFormUygulamasi.Menu">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQBACAAABCAAACAAAACAAA4AAAAAHAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmKiralamaFormUygulamasi.Program">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilmKiralamaFormUygulamasi.FilmDukkani">
+    <Position X="3.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAACAAQAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FilmDukkani.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="sahip" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FilmKiralamaFormUygulamasi.Giris">
+    <Position X="9" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAACBCAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Giris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
